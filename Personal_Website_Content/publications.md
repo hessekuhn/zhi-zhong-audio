@@ -75,7 +75,7 @@ The work was exhibited at ICC during Evala's exhibition.
 
 <a id="soundreactor"></a>
 ### SoundReactor: Frame-level Online Video-to-Audio Generation
-Koichi Saito, Julian Tanke, Christian Simon, Masato Ishii, Kazuki Shimada, Zachary Novack, **Zhi Zhong**, Akio Hayakawa, Takashi Shibuya, and Yuki Mitsufuji. *Tech Report 2025.* [arXiv](https://arxiv.org/abs/2510.02110)
+Koichi Saito, Julian Tanke, Christian Simon, Masato Ishii, Kazuki Shimada, Zachary Novack, **Zhi Zhong**, Akio Hayakawa, Takashi Shibuya, and Yuki Mitsufuji. *arXiv preprint, 2025.* [arXiv](https://arxiv.org/abs/2510.02110)
 
 <p class="contribution-note"><strong>Technical Contribution</strong><span>Reused the feature aggregation approach introduced in SoniDo to aggregate DINO feature maps into a single token.</span></p>
 
