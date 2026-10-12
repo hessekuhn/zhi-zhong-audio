@@ -6,7 +6,7 @@ Complete publications, listed in descending order by the publication year shown 
 
 <a id="pianopoet"></a>
 ### PianoPoet: Unifying Piano Transcription and Rendering via Autoregressive Modeling
-Louis Bradshaw\*, **Zhi Zhong**\*, Shuyang Cui, Keisuke Toyama, Kin Wai Cheuk, Christian Simon, Seungheon Doh, Qiyu Wu, Wei-Hsiang Liao, Shusuke Takahashi, and Yuki Mitsufuji (to be modified). *Tech Report 2026.*
+Louis Bradshaw\*, **Zhi Zhong**\*, Shuyang Cui, Keisuke Toyama, Kin Wai Cheuk, Christian Simon, Seungheon Doh, Qiyu Wu, Wei-Hsiang Liao, Shusuke Takahashi, and Yuki Mitsufuji. *Tech Report 2026.*
 
 <p class="contribution-note"><strong>Equal Contribution</strong><span>The first two authors contributed equally.</span></p>
 
@@ -16,7 +16,7 @@ Louis Bradshaw\*, **Zhi Zhong**\*, Shuyang Cui, Keisuke Toyama, Kin Wai Cheuk, C
 
 <a id="flomss"></a>
 ### FLOMSS: Music Source Separation via Flow-Matching
-Shuyang Cui, **Zhi Zhong**, Koichi Saito, et al. (to be modified). *Tech Report 2026.*
+Shuyang Cui, **Zhi Zhong**, Keisuke Toyama, Koichi Saito, Qiyu Wu, Yukara Ikemiya, Junghyun Koo, Kin Wai Cheuk, Woosung Choi, Giorgio Fabbro, Wei-Hsiang Liao, Shusuke Takahashi, and Yuki Mitsufuji. *Tech Report 2026.*
 
 <a id="passing"></a>
 ### Passing: An Endless Journey through Reconstructed Spacetime with AI-Generated Sound
