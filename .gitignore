@@ -1,0 +1,23 @@
+_site/
+.jekyll-cache/
+.sass-cache/
+.bundle/
+vendor/
+Gemfile.lock
+
+# Private
+*resume*
+_unused/
+.env
+*.pdf
+
+# Local-only
+README.md
+serve-local.ps1
+.vscode/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp

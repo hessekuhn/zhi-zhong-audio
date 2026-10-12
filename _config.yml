@@ -1,0 +1,15 @@
+﻿title: Zhi Zhong
+tagline: Audio, music, and multimodal AI
+description: Senior Researcher at Sony's Creative AI Lab working on AI systems that understand, restore, edit, and generate audio.
+url: "https://hessekuhn.github.io"
+baseurl: "/zhi-zhong-audio"
+markdown: kramdown
+kramdown:
+  input: GFM
+permalink: pretty
+exclude:
+  - README.md
+  - serve-local.ps1
+  - Gemfile
+  - Gemfile.lock
+  - _unused
