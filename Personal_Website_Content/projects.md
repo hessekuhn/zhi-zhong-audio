@@ -237,7 +237,7 @@ Appending a hierarchical backend to pretrained audio encoders for hierarchical c
 <div class="flow-stage-title">Diffusion Supervised Finetuning</div>
 <div class="flow-row flow-row--2">
 <a class="flow-node" href="https://arxiv.org/abs/2605.14555" target="_blank" rel="noopener"><span class="flow-node-tag">MIDI-to-Drum Synthesis</span>Break-the-Beat<br>ICASSP'26</a>
-<a class="flow-node" href="https://anonaudiogen.github.io/web/" target="_blank" rel="noopener"><span class="flow-node-tag">Sketch-to-Audio Generation</span>FlashFoley<br>ICASSP'26</a>
+<a class="flow-node" href="https://openreview.net/pdf?id=dxwsVO0W47" target="_blank" rel="noopener"><span class="flow-node-tag">Sketch-to-Audio Generation</span>FlashFoley<br>ICASSP'26</a>
 </div>
 </div>
 </div>

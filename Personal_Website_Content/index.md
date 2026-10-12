@@ -61,7 +61,7 @@ A complete publication list is available on [Google Scholar](https://scholar.goo
 <div class="home-news-block">
 
 - 2026-09: The technical report of our interactive audiovisual installation [Passing](https://arxiv.org/abs/2609.27489) is accepted to NeurIPS 2026 Creative AI Track!
-- 2026-05: Four papers accepted at ICASSP 2026 in Barcelona, Spain: [Break-the-Beat](https://arxiv.org/abs/2605.14555) (controllable MIDI-to-drum synthesis), [MSABench](https://arxiv.org/abs/2512.17209) (benchmark semantic encoders for music structure analysis), [FlashFoley](https://anonaudiogen.github.io/web/) (fast interactive Sketch2Audio generation), and [FoleyBench](https://arxiv.org/abs/2511.13219) (a benchmark for video-to-audio models).
+- 2026-05: Four papers accepted at ICASSP 2026 in Barcelona, Spain: [Break-the-Beat](https://arxiv.org/abs/2605.14555) (controllable MIDI-to-drum synthesis), [MSABench](https://arxiv.org/abs/2512.17209) (benchmark semantic encoders for music structure analysis), [FlashFoley](https://openreview.net/pdf?id=dxwsVO0W47) (fast interactive Sketch2Audio generation), and [FoleyBench](https://arxiv.org/abs/2511.13219) (a benchmark for video-to-audio models).
 
 </div>
 

@@ -42,7 +42,7 @@ Satvik Dixit, Koichi Saito, **Zhi Zhong**, Yuki Mitsufuji, and Chris Donahue. *I
 
 <a id="flashfoley"></a>
 ### FlashFoley: Fast Interactive Sketch2Audio Generation
-Zachary Novack, Koichi Saito, **Zhi Zhong**, Takashi Shibuya, Shuyang Cui, Julian McAuley, Taylor Berg-Kirkpatrick, Christian Simon, Shusuke Takahashi, and Yuki Mitsufuji. *ICASSP 2026.* [Demo](https://anonaudiogen.github.io/web/)
+Zachary Novack, Koichi Saito, **Zhi Zhong**, Takashi Shibuya, Shuyang Cui, Julian McAuley, Taylor Berg-Kirkpatrick, Christian Simon, Shusuke Takahashi, and Yuki Mitsufuji. *ICASSP 2026.* [PDF](https://openreview.net/pdf?id=dxwsVO0W47) | [Demo](https://anonaudiogen.github.io/web/)
 
 <a id="echoes-over-time"></a>
 ### Echoes over Time: Unlocking Length Generalization in Video-to-Audio Generation Models
