@@ -225,9 +225,9 @@ Appending a hierarchical backend to pretrained audio encoders for hierarchical c
 <div class="flow-stage flow-stage--pre">
 <div class="flow-stage-title">Diffusion/Flow-matching Pretraining</div>
 <div class="flow-row flow-row--5">
-<a class="flow-node" href="https://arxiv.org/abs/2405.18503" target="_blank" rel="noopener"><span class="flow-node-tag">Bi-directional DiT for text-to-audio</span>SoundCTM<br>ICLR'25</a>
+<a class="flow-node" href="https://arxiv.org/abs/2405.18503" target="_blank" rel="noopener"><span class="flow-node-tag">Fast text-to-sound</span>SoundCTM<br>ICLR'25</a>
 <a class="flow-node" href="https://arxiv.org/abs/2510.02110" target="_blank" rel="noopener"><span class="flow-node-tag">Continuous AR model for streaming video-to-audio</span>SoundReactor<br>arXiv'25</a>
-<a class="flow-node" href="https://arxiv.org/abs/2602.20981" target="_blank" rel="noopener"><span class="flow-node-tag">Flow-matching Mamba for long-form video-to-audio</span>Echoes over Time<br>CVPR'26</a>
+<a class="flow-node" href="https://arxiv.org/abs/2602.20981" target="_blank" rel="noopener"><span class="flow-node-tag">Length generalization for video-to-audio</span>Echoes over Time<br>CVPR'26</a>
 <a class="flow-node" href="#"><span class="flow-node-tag">VAE-free Flow-matching for music separation</span>FLOMSS<br>Tech Report '26</a>
 <a class="flow-node" href="https://openreview.net/pdf?id=6Tyo0yCCez" target="_blank" rel="noopener"><span class="flow-node-tag">Test-time duration extension for text-to-audio</span>FLEXOUNDIT<br>Tech Report '24</a>
 </div>
@@ -250,16 +250,6 @@ Appending a hierarchical backend to pretrained audio encoders for hierarchical c
 
 <div class="project-paper-card">
 
-### [SoundCTM](publications.html#soundctm)
-
-<p class="project-paper-meta">ICLR 2025</p>
-
-Text-to-sound pretraining with CTM distillation for fast generation, targeting full-band synthesis with much lower sampling cost.
-
-</div>
-
-<div class="project-paper-card">
-
 ### [SoundReactor](publications.html#soundreactor)
 
 <p class="project-paper-meta">arXiv 2025</p>
@@ -267,20 +257,6 @@ Text-to-sound pretraining with CTM distillation for fast generation, targeting f
 Streaming video-to-audio generation with continuous audio language modeling, aimed at online generation rather than one-shot offline synthesis.
 
 </div>
-
-<div class="project-paper-card">
-
-### [Echoes over Time](publications.html#echoes-over-time)
-
-<p class="project-paper-meta">CVPR 2026</p>
-
-Studies how models trained on short clips can generalize to much longer foley generation conditioned on video prompts.
-
-</div>
-
-</div>
-
-<div class="project-paper-grid">
 
 <div class="project-paper-card">
 
