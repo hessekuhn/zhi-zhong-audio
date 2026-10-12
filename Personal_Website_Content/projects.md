@@ -32,7 +32,7 @@
 <div class="flow-col">
 <a class="flow-node" href="https://arxiv.org/abs/2505.16195" target="_blank" rel="noopener"><span class="flow-node-tag">Video Control</span>SpecMaskFoley<br>WASPAA'25</a>
 <div class="flow-arrow"></div>
-<a class="flow-node" href="https://arxiv.org/abs/2609.27489" target="_blank" rel="noopener"><span class="flow-node-tag">Human-AI</span>Passing<br>NeurIPS'26</a>
+<a class="flow-node" href="https://arxiv.org/abs/2609.27489" target="_blank" rel="noopener"><span class="flow-node-tag">Human-AI</span>Passing<br>NeurIPS'26 Creative AI</a>
 </div>
 </div>
 </div>
