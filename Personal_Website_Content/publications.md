@@ -1,10 +1,3 @@
----
-layout: default
-title: Publications
-permalink: /publications/
-description: Publications by Zhi Zhong in audio, music, and multimodal AI.
----
-
 # Publications
 
 Complete publications, listed in descending order by the publication year shown on [Google Scholar](https://scholar.google.com/citations?hl=en&user=iRVT3A8AAAAJ).

@@ -1,10 +1,3 @@
-﻿---
-layout: default
-title: Home
-permalink: /
-description: Senior Researcher at Sony working on audio, music, and multimodal AI.
----
-
 # About Me
 
 <section class="bio-section">

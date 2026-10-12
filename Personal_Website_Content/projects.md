@@ -1,10 +1,3 @@
----
-layout: default
-title: Projects
-permalink: /projects/
-description: Research projects spanning audio generation, representation learning, and music understanding.
----
-
 # Projects
 <section class="project-hero">
 
