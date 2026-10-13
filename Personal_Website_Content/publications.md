@@ -17,6 +17,7 @@ Louis Bradshaw\*, **Zhi Zhong**\*, Shuyang Cui, Keisuke Toyama, Kin Wai Cheuk, C
 <a id="flomss"></a>
 ### FLOMSS: Music Source Separation via Flow-Matching
 Shuyang Cui, **Zhi Zhong**, Keisuke Toyama, Koichi Saito, Qiyu Wu, Yukara Ikemiya, Junghyun Koo, Kin Wai Cheuk, Woosung Choi, Giorgio Fabbro, Wei-Hsiang Liao, Shusuke Takahashi, and Yuki Mitsufuji. *Tech Report 2026.*
+ [Demo](https://ik4sumii.github.io/FLOMSS/)
 
 <a id="passing"></a>
 ### Passing: An Endless Journey through Reconstructed Spacetime with AI-Generated Sound

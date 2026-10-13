@@ -228,7 +228,7 @@ Appending a hierarchical backend to pretrained audio encoders for hierarchical c
 <a class="flow-node" href="https://arxiv.org/abs/2405.18503" target="_blank" rel="noopener"><span class="flow-node-tag">Fast text-to-sound</span>SoundCTM<br>ICLR'25</a>
 <a class="flow-node" href="https://arxiv.org/abs/2510.02110" target="_blank" rel="noopener"><span class="flow-node-tag">Continuous AR model for streaming video-to-audio</span>SoundReactor<br>Tech Report '25</a>
 <a class="flow-node" href="https://arxiv.org/abs/2602.20981" target="_blank" rel="noopener"><span class="flow-node-tag">Length generalization for video-to-audio</span>Echoes over Time<br>CVPR'26</a>
-<a class="flow-node" href="#"><span class="flow-node-tag">VAE-free Flow-matching for music separation</span>FLOMSS<br>Tech Report '26</a>
+<a class="flow-node" href="https://ik4sumii.github.io/FLOMSS/" target="_blank" rel="noopener"><span class="flow-node-tag">VAE-free Flow-matching for music separation</span>FLOMSS<br>Tech Report '26</a>
 <a class="flow-node" href="https://openreview.net/pdf?id=6Tyo0yCCez" target="_blank" rel="noopener"><span class="flow-node-tag">Test-time duration extension for text-to-audio</span>FLEXOUNDIT<br>Tech Report '24</a>
 </div>
 </div>
@@ -265,6 +265,8 @@ Streaming video-to-audio generation with continuous audio language modeling, aim
 <p class="project-paper-meta">Tech Report 2026</p>
 
 VAE-free flow matching for music separation. Comprehensive studies reveal which properties improve and which do not during iterative refinement in the sampling procedure.
+
+[Interactive Demo](https://ik4sumii.github.io/FLOMSS/)
 
 </div>
 
