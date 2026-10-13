@@ -13,7 +13,7 @@
 <div class="flow-row flow-row--h">
 <a class="flow-node" href="https://arxiv.org/abs/2411.01135" target="_blank" rel="noopener"><span class="flow-node-tag">Hierarchical AR Music Generative Backbone</span>SoniDo<br>TMLR'25</a>
 <div class="flow-arrow flow-arrow--h"><span>Symbolic</span></div>
-<a class="flow-node" href="#"><span class="flow-node-tag">Unified Transcription and Rendering AR Model</span>PianoPoet<br>Tech Report '26</a>
+<a class="flow-node" href="https://zzaudio.github.io/pianopoet-demopage/" target="_blank" rel="noopener"><span class="flow-node-tag">Unified Transcription and Rendering AR Model</span>PianoPoet<br>Tech Report '26</a>
 </div>
 </div>
 <div class="flow-stage flow-stage--pre">
@@ -133,7 +133,7 @@ Adding a ControlNet branch to pretrained SpecMaskGIT, tuned with 1 GPU, achievin
 <a class="flow-node" href="https://arxiv.org/abs/2410.15573" target="_blank" rel="noopener"><span class="flow-node-tag">LLM Music Caption</span>OpenMU<br>Tech Report '24</a>
 <a class="flow-node" href="https://arxiv.org/abs/2310.13267" target="_blank" rel="noopener"><span class="flow-node-tag">Audio-text Retrieval</span>CyCLAPs<br>ACL'24</a>
 <a class="flow-node" href="https://arxiv.org/abs/2302.08136" target="_blank" rel="noopener"><span class="flow-node-tag">Hierarchical Classification</span>ResAtt<br>ICASSP'23</a>
-<a class="flow-node" href="#"><span class="flow-node-tag">AR Music Transcription</span>PianoPoet<br>Tech Report '26</a>
+<a class="flow-node" href="https://zzaudio.github.io/pianopoet-demopage/" target="_blank" rel="noopener"><span class="flow-node-tag">AR Music Transcription</span>PianoPoet<br>Tech Report '26</a>
 </div>
 </div>
 

@@ -6,7 +6,7 @@ Complete publications, listed in descending order by the publication year shown 
 
 <a id="pianopoet"></a>
 ### PianoPoet: Unifying Piano Transcription and Rendering via Autoregressive Modeling
-Louis Bradshaw\*, **Zhi Zhong**\*, Shuyang Cui, Keisuke Toyama, Kin Wai Cheuk, Christian Simon, Seungheon Doh, Qiyu Wu, Wei-Hsiang Liao, Shusuke Takahashi, and Yuki Mitsufuji. *Tech Report 2026.*
+Louis Bradshaw\*, **Zhi Zhong**\*, Shuyang Cui, Keisuke Toyama, Kin Wai Cheuk, Christian Simon, Seungheon Doh, Qiyu Wu, Wei-Hsiang Liao, Shusuke Takahashi, and Yuki Mitsufuji. *Tech Report 2026.* [Demo](https://zzaudio.github.io/pianopoet-demopage/)
 
 <p class="contribution-note"><strong>Equal Contribution</strong><span>The first two authors contributed equally.</span></p>
 
